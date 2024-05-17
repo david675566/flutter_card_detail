@@ -4,7 +4,7 @@ import 'package:flutter_card_detail/card/model/card_model.dart';
 import './class_detail.dart';
 
 class TeacherCardWidget extends StatefulWidget {
-  final TeacherCard data;
+  final TeacherModel data;
   const TeacherCardWidget({super.key, required this.data});
 
   @override

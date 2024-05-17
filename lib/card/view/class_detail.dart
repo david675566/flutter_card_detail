@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_card_detail/card/model/card_model.dart';
 
 class ClassDetailView extends StatelessWidget {
-  final TeacherCard data;
+  final TeacherModel data;
   final int displayIndex;
   const ClassDetailView({super.key, required this.data, required this.displayIndex});
 
