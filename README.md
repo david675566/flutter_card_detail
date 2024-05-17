@@ -1,6 +1,6 @@
 # flutter_card_detail
 
-A new Flutter project.
+A new Flutter project, mainly for interview demonstration. (This can only complied in mobile platform!)
 
 ## Getting Started
 
